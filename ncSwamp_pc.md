@@ -9,8 +9,8 @@ Here is a look at the final result this process arrives at, a map of the current
 ![Swamp Current Conditions Map](imgs/result.png)
 
 ### *Data Prep*
-See the Google Earth Engine code, ***(update this link once it's finalized)***
-[here](https://code.earthengine.google.com/8870d7fc906c24c5f1780811a8123e56), to process and download these inputs:
+See the Google Earth Engine code,
+[here](https://code.earthengine.google.com/817a1d84209bc94c67b73347357faae6), to process and download these inputs:
 
 |Feature|Raster Name|
 |---|---|
