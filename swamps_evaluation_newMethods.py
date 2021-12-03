@@ -82,5 +82,5 @@ wbt.zonal_statistics('constantraster.tif','swamp_sig.tif',output=None,stat='tota
 #   CREATE CHARTS IN GOOGLE SHEETS
 # ==========================================
 
-#   Go to this link to paste results from zonal statistics and generate charts.
-#
+#   Go to this link to paste results from zonal statistics and generate charts:
+#   https://docs.google.com/spreadsheets/d/1j7zxvLrIyrl-VepVu4NiPnDPaNeGREOiFyCdB9DF2i4/edit?usp=sharing
