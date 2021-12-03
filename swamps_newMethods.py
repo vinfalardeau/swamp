@@ -28,6 +28,8 @@ wbt.work_dir = "/Users/vincentfalardeau/projects/GEOG0310/wbt_pySpace-master/swa
 #   INPUTS
 # =========================
 
+# export the data from Google Earth Engine here: https://code.earthengine.google.com/817a1d84209bc94c67b73347357faae6 
+
 lc = 'lc.tif' # landcover raster with 8 classes
 
 swampsoil = 'swampsoil.tif' # binary of soil series associated with swamps
