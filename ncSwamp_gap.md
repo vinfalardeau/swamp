@@ -4,8 +4,8 @@
 Here, we set out to find what proportions of Middlebury's swamps are protected, whether under natural conditions or in agriculture. We also measure how much of the swamp falls within habitat blocks or riparian areas, in comparison to the amount in protected areas. What if we designated and zoned habitat blocks and riparian areas as places for conservation, rather than relying on the piecemeal protections we currently have?
 
 ### *Data Prep*
-See the Google Earth Engine code, ***(update this link once it's finalized)***
-[here](https://code.earthengine.google.com/8870d7fc906c24c5f1780811a8123e56), to process and download these inputs:
+See the Google Earth Engine code,
+[here](https://code.earthengine.google.com/817a1d84209bc94c67b73347357faae6), to process and download these inputs:
 
 |Feature|Raster Name|
 |---|---|
