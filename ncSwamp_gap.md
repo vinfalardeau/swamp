@@ -1,6 +1,6 @@
 
 # Evaluating Swamp Status
-
+ 
 Here, we set out to find what proportions of Middlebury's swamps are protected, whether under natural conditions or in agriculture. We also measure how much of the swamp falls within habitat blocks or riparian areas, in comparison to the amount in protected areas. What if we designated and zoned habitat blocks and riparian areas as places for conservation, rather than relying on the piecemeal protections we currently have?
 
 ### *Data Prep*

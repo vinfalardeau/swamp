@@ -2,7 +2,7 @@
 #   SWAMP: EVALUATION & GAP ANALYSIS
 # =======================================
 # author:     Vincent Falardeau
-# date:       December 1, 2021
+# date:       December 13, 2021
 # purpose:    To identify how much of Middlebury's swamp is protected,
 #             considering which land cover types are protected and
 #             whether they are protected under agriculture or natural conditions.
@@ -28,7 +28,7 @@ wbt.work_dir = "/Users/vincentfalardeau/projects/GEOG0310/wbt_pySpace-master/swa
 #   INPUTS
 # =========================
 
-# export the data from Google Earth Engine here: https://code.earthengine.google.com/817a1d84209bc94c67b73347357faae6 
+# export the data from Google Earth Engine here: https://code.earthengine.google.com/817a1d84209bc94c67b73347357faae6
 
 swamp_landcover = 'lc_swampsoil.tif'
 protected = 'proFlat.tif'

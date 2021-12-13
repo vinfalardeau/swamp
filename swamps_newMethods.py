@@ -2,7 +2,7 @@
 #   SWAMP: CURRENT CONDITIONS
 # =======================================
 # author:     Vincent Falardeau
-# date:       December 1, 2021
+# date:       December 13, 2021
 # purpose:    To isolate and map the kinds of landcover we are interested in on swamp soils,
 #             reclassifying landcover to focus on natural swamps with and without trees,
 #             agricultural land, waters, and developed land (including buffers around
@@ -28,7 +28,7 @@ wbt.work_dir = "/Users/vincentfalardeau/projects/GEOG0310/wbt_pySpace-master/swa
 #   INPUTS
 # =========================
 
-# export the data from Google Earth Engine here: https://code.earthengine.google.com/817a1d84209bc94c67b73347357faae6 
+# export the data from Google Earth Engine here: https://code.earthengine.google.com/817a1d84209bc94c67b73347357faae6
 
 lc = 'lc.tif' # landcover raster with 8 classes
 
@@ -48,13 +48,13 @@ ag = 'agImage.tif' # binary raster of agricultural lands
 wbt.not_equal_to(ag,1,'agZero.tif')
 # Multiply landcover by inverted agriculture to get zeroes where there is agriculture.
 wbt.multiply(lc,'agZero.tif','lcAgZero.tif')
-# Reclass the altered land cover raster – focus on trees, grass/shrub/RR, ag, water, and all other/developed.
+# Reclass the altered land cover raster, focus on trees, grass/shrub/RR, ag, water, and all other/developed.
 # 1) Trees, 2) Grass/Shrub/RR, 3) Ag, 4) Water, 5) All Other/Developed.
 reclassvals = '3;0;1;1;2;2;5;3;4;4;5;5;5;6;5;7;2;8'
 wbt.reclass('lcAgZero.tif','lcReclass.tif',reclassvals, assign_mode=True)
 
 # ========================================
-#   BUFFERED BUILDINGS AND ROADS -> 5
+#   BUFFERED BUILDINGS AND ROADS to 5
 # ========================================
 
 # 100-meter buffered buildings
