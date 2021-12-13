@@ -1,15 +1,24 @@
 # Swamps
-##### Background
 
-- Swamps are inland, freshwater wetlands that are predominantly forested or covered with lower-growing shrub plants.
+Swamps are inland, freshwater wetlands that are predominantly forested or covered with lower-growing shrub plants.
 
-- In some places, past areas of swamp have been cleared and converted to crops or hayfields.
+#### Problems
 
-- Parts of the swamp have been degraded from healthy wet forest to a state of lower biomass and biodiversity. Possibly due to changes in hydrology introduced by ditches and berms.
+- In some places, past areas of swamp have been cleared and converted to crops or hayfields. *(1942 image vs more recent)*
 
-- Conservation should aim to preserve existing large blocks of swamp, especially in areas with greater diversity and rarer soils, species, or natural community types. Restoration of degraded and converted swamps should also be a priority.
+- Parts of the swamp have been degraded from healthy wet forest to a state of lower biomass and biodiversity. *(contention: is it old ag land or forest that's been flooded out?)* Possibly due to changes in hydrology introduced by ditches and berms. *(or other alterations?)*
+
+> Screenshot of de Beers atlas, showing the change in hydrology
+
+#### Goals
+
+- Conservation should aim to preserve existing large blocks of swamp, especially in areas with greater diversity and rarer soils, species, or natural community types.
+
+- Restoration of degraded and converted swamps should also be a priority.
 
 &ensp;
+
+> Change to atlas screenshots later
 
 ##### Present Conditions
 ![Swamp Current Conditions Map](imgs/result.png)
@@ -17,9 +26,10 @@
 
 - Some areas near Otter Creek have been converted to agriculture.
 
-- Swaths south of Morse Road are occupied by grassland or shrubland, drained into the creek by artificial ditches.
+- Swaths south of Morse Road are occupied by grassland or shrubland, drained into the creek by artificial ditches. *layer ditches over this*
 
 &ensp;
+
 
 ##### Conservation System
 
@@ -29,9 +39,13 @@
 
 - East of Otter Creek, there are larger conserved areas, some of them protected under agriculture. However, coverage is less than ideal.
 
+*(have another look at parcel map)*
+
 ![Chart](imgs2/benchmark.png)
 
 - Compared to a 70% conservation goal, swamp forest and shrubland swamps are falling short. Meanwhile, agricultural areas on swamp soils are well protected.
+
+> Real benchmark should be of swamp soils, not just tree (70/50/30)
 
 &ensp;
 
@@ -47,6 +61,10 @@
 |![Protecting Swamp Forests](imgs2/swampfo.png)|![Protecting Swamp Forests](imgs2/swampsh2.png)|
 |---|---|
 
+> take out the not protected
+
 - Protection of swamp forest would become nearly universal under the alternative system.
 
 - Most shrubland swamp is not currently protected, but falls within riparian corridors or habitat blocks, and could be targeted for restoration to a healthy forest state.
+
+projects/conservation-atlas/assets/studyRegion/middStudyRegion
