@@ -22,10 +22,16 @@
 &ensp;
 
 ##### Conservation System
+
 ![Protected Status](imgs2/protected.png)
+
 - A majority of swamp-soil area is not protected, as shown in this map.
 
 - East of Otter Creek, there are larger conserved areas, some of them protected under agriculture. However, coverage is less than ideal.
+
+![Chart](imgs2/benchmark.png)
+
+- Compared to a 70% conservation goal, swamp forest and shrubland swamps are falling short. Meanwhile, agricultural areas on swamp soils are well protected.
 
 &ensp;
 
