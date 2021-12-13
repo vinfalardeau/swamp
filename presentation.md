@@ -31,9 +31,9 @@
 
 ##### An Alternative Model
 ![Alternative Model](imgs2/habripmap2.png)
-- If we instead took habitat blocks and riparian corridors as the basis for conservation, most areas of swamp soil would fall within one or both.
+- If we instead took habitat blocks and riparian corridors as the basis for conservation, most areas of swamp soil would fall within one or both. There are only isolated pockets falling outside of riparian corridors or outside both.
 
-- Areas of grassland/shrubland swamp and areas converted to agriculture tend to fall within riparian zones, but outside habitat blocks.
+- Areas of grassland/shrubland swamp and areas converted to agriculture tend to fall within riparian zones, but outside habitat blocks. Swamp forest is almost all within both riparian corridors and habitat blocks.
 
 &ensp;
 
