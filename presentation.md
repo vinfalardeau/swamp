@@ -48,11 +48,12 @@ Swamps are inland, freshwater wetlands that are predominantly forested or covere
 
 - East of Otter Creek, there are larger conserved areas, some of them protected under agriculture. However, coverage is less than ideal.
 
-![Chart](imgs2/benchmark.png)
+![Chart](imgs2/benches.png)
 
-- Compared to a 70% conservation goal, swamp forest and shrubland swamps are falling short. Meanwhile, agricultural areas on swamp soils are well protected.
+- Compared to a 30%, 50%, or 70% conservation goal, swamp forest and shrubland swamps are falling short. The current protections for forest and shrubland/grassland on swamp soils are roughly 20-25%. Meanwhile, agricultural areas on swamp soils are relatively well protected.
 
-> Real benchmark should be of swamp soils, not just tree (70/50/30)
+###### Swamp Protections Throughout Middlebury
+![middlebury swamp protections](imgs2/swapro.png)
 
 &ensp;
 
@@ -68,10 +69,9 @@ Swamps are inland, freshwater wetlands that are predominantly forested or covere
 &ensp;
 
 ##### Protecting and Restoring Swamp Forest
-|![Protecting Swamp Forests](imgs2/swampfo.png)|![Protecting Swamp Forests](imgs2/swampsh2.png)|
+|![Protecting Swamp Forests](imgs2/tree_f.png)|![Protecting Swamp Forests](imgs2/shrub_f.png)|
 |---|---|
 
-> take out the not protected
 
 - Protection of swamp forest would become nearly universal under the alternative system.
 

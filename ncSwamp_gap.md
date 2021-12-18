@@ -64,11 +64,10 @@ Taking the area of each land cover type on swamp soils, we can identify the acre
 
 If we turn to a side-by-side comparison of the current conservation system and a potential future system based on habitat blocks and riparian corridors, we can get a better understanding of how particular land cover types fare under each method. In the three charts below, we can get a more granular understanding of tree cover on swamp soils, grassland/shrubland, and agricultural land on swamp soils. In each chart, the first three bars represent the current system (areas not protected, protected under agriculture, and protected under natural conditions) while the last four represent the potential system (areas outside vs. within habitat blocks and riparian corridors).
 
-![tree cover](imgs2/treechart.png)
 
-![grasslanshrubland](imgs2/grasschart.png)
 
-![agricultural land](imgs2/agchart.png)
+|![tree cover](imgs2/tree_f.png)|![grasslanshrubland](imgs2/shrub_f.png)|![agricultural land](imgs2/ag_f.png)|
+|---|---|---|
 
 ### 3. &ensp; How do natural swamps fare?
 
@@ -86,6 +85,6 @@ The state of Vermont designates some natural community areas as significant, but
 
 ![significance map](imgs2/sigmap.png)
 
-Carrying out area calculations for each land cover type, we can then see what percent of each is identified as state significant natural communities. Tree cover on swamp soils is likeliest to be deemed significant, followed by grassland and shrubland. Some developed land is considered significant, because we buffered around buildings and roads to a distance where they overlap with state significant areas. 
+Carrying out area calculations for each land cover type, we can then see what percent of each is identified as state significant natural communities. Tree cover on swamp soils is likeliest to be deemed significant, followed by grassland and shrubland. Some developed land is considered significant, because we buffered around buildings and roads to a distance where they overlap with state significant areas.
 
 ![significant](imgs2/signif_chart.png)
