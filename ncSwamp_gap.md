@@ -39,6 +39,8 @@ From there, we can measure the areas of certain land cover types on swamp soils 
 
 ![Land Cover & Protected Status](imgs2/protectall.png)
 
+&ensp;
+
 ### 2. &emsp; What if we protected habitat blocks and riparian corridors?
 
 Here is a map of habitat blocks and riparian corridors, and the areas outside of vs. within both. These areas provide the basis for a potential system of conservation which could prove more comprehensive than the current patchwork of protected lands.
@@ -69,6 +71,8 @@ If we turn to a side-by-side comparison of the current conservation system and a
 |![tree cover](imgs2/tree_f.png)|![grasslanshrubland](imgs2/shrub_f.png)|![agricultural land](imgs2/ag_f.png)|
 |---|---|---|
 
+&ensp;
+
 ### 3. &ensp; How do natural swamps fare?
 
 Under the current pattern of conservation, 23.9% of natural swamps are protected under natural conditions, as shown in the following pie chart. The remaining 76.1% are not protected, and agricultural protection is negligible in areas of natural, non-agricultural swamp.
@@ -78,6 +82,8 @@ Under the current pattern of conservation, 23.9% of natural swamps are protected
 Looking at natural swamps in the context of habitat blocks and riparian corridors, 86.8% of natural swamp area is within both, 11.9% is only in a riparian corridor, and 1.2% is within habitat blocks but not riparian corridors. Virtually no natural swamp is outside of both habitat blocks and riparian corridors, so if we took these as areas to protect, it would bode well for the swamp.
 
 ![pie2](imgs/pie2.png)
+
+&ensp;
 
 ### 4. &ensp; State Significance
 
