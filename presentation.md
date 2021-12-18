@@ -4,17 +4,17 @@ Swamps are inland, freshwater wetlands that are predominantly forested or covere
 
 ##### Problems
 
-- In some places, areas that were swamp prior to European settlement may have been cleared and converted to crops or hayfields. Between 1942 and 2012, however, the Middlebury Swamp appears to have seen some regrowth.
+- In some places, areas that were swamp prior to European settlement may have been cleared and converted to crops or hayfields. Between 1942 and 2012, however, the Middlebury Swamp appears to have seen some regrowth, as shown in these aerial images:
 
 |1942|2012|
 |---|---|
-|![1942](imgs2/o1942.png)|![2012](imgs2/o2012.png)|
+|<img src="imgs2/o1942.png" alt="1942 image" width="400" />|<img src="imgs2/o2012.png" alt="2012 image" width="400" />|
 
 - Parts of the swamp have less trees, and lower biomass. These could be old agricultural lands or forest areas that have been flooded out, whether naturally or due to changes in hydrology introduced by ditches, berms, or other alterations.
 
 |1870 - De Beers Atlas|1943 - USGS|2021 - USGS|
 |---|---|---|
-|![1870](imgs2/i1870.png)|![1943](imgs2/i1943.png)|![2021](imgs2/i2021.png)|
+|<img src="imgs2/i1870.png" alt="1870 map" width="300" />|<img src="imgs2/i1943.png" alt="1943 map" width="275" />|<img src="imgs2/i2021.png" alt="2021 map" width="300" />|
 
 - In these maps, we can see that the flow direction in the Middlebury Swamp changed over time. In 1870, water flowed north to meet Otter Creek, whereas in 2021 some straight-line ditches still drain north, but most of the swamp drains south and east before meeting ditches near the railroad that drain into the creek.
 
