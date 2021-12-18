@@ -32,7 +32,10 @@ Swamps are inland, freshwater wetlands that are predominantly forested or covere
 
 - Some areas near Otter Creek have been converted to agriculture.
 
-- Swaths south of Morse Road are occupied by grassland or shrubland, drained into the creek by artificial ditches. *layer ditches over this*
+- Swaths south of Morse Road are occupied by grassland or shrubland, drained into the creek by artificial ditches.
+
+![Swamp Full Extent](imgs2/midd_lc_swampsoil.png)
+- Similar patterns are borne out across the full extent around Middlebury; most swamp soils are still covered with forest. In the mountains, buildings appear likelier to occupy one-time swamp soils than agricultural use.
 
 &ensp;
 
@@ -59,7 +62,10 @@ Swamps are inland, freshwater wetlands that are predominantly forested or covere
 ![Alternative Model](imgs2/habripmap2.png)
 - If we instead took habitat blocks and riparian corridors as the basis for conservation, most areas of swamp soil would fall within one or both. There are only isolated pockets falling outside of riparian corridors or outside both.
 
-- Areas of grassland/shrubland swamp and areas converted to agriculture tend to fall within riparian zones, but outside habitat blocks. Swamp forest is almost all within both riparian corridors and habitat blocks.
+- In the test region, areas of grassland/shrubland swamp and areas converted to agriculture tend to fall within riparian zones, but outside habitat blocks. Swamp forest is almost all within both riparian corridors and habitat blocks.
+
+![Act 171 All Midd](imgs2/act171midd.png)
+- Looking here at the full Middlebury extent, we can see that swamp soils in the mountains are likelier to fall within habitat blocks or both, while swamps in the western flats are generally in riparian corridors or both.
 
 &ensp;
 
@@ -72,5 +78,3 @@ Swamps are inland, freshwater wetlands that are predominantly forested or covere
 - Protection of swamp forest would become nearly universal under the alternative system.
 
 - Most shrubland swamp is not currently protected, but falls within riparian corridors or habitat blocks, and could be targeted for restoration to a healthy forest state.
-
-projects/conservation-atlas/assets/studyRegion/middStudyRegion
