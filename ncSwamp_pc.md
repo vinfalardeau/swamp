@@ -6,7 +6,7 @@ Here, we isolate and map the land cover types of interest on swamp soils. We do 
 Here is a look at the final result this process arrives at, a map of the current conditions of swamps in a test region. As we can see, most of the landcover on swamp soils remains trees (dark green). Sizable portions have been cleared or degraded, and are now grassland or shrubland (light green), while large chunks near Otter Creek are in agricultural use (light tan), and some small areas are paved, bare, or developed (pink).
 
 ##### Swamp Current Conditions Map
-![Swamp Current Conditions Map](imgs/result.png)
+![Swamp Current Conditions Map](assets/result.png)
 
 ### *Data Prep*
 See the Google Earth Engine code,
@@ -24,7 +24,7 @@ See the Google Earth Engine code,
 
 We begin with a high-resolution landcover **raster** (geographic image), which the Vermont Center for Geographic Information (VCGI) created using 2013-2017 LiDAR and aerial imagery from 2016. The landcover consists of eight classes:
 
-![landcover classes](imgs/legend.png)
+![landcover classes](assets/legend.png)
 
 We begin by reclassifying the landcover types, isolating (1) tree canopy, (2) grassland/shrubland, (3) agricultural land, (4) water, and (5) developed/other land cover. To bring in the agricultural lands (which are not included in the landcover raster), we burn a fixed value (3) into the landcover wherever there is farmland according to a binary raster, also from the VCGI.
 
@@ -34,7 +34,7 @@ For the purposes of this analysis, we treat bare soil, buildings, roads, and oth
 
 ##### Reclassified Land Cover Map
 
-![Reclassified Land Cover Map](imgs/lcReclass.png)
+![Reclassified Land Cover Map](assets/lcReclass.png)
 
 ### 2.  Buffered Buildings and Roads  
 
@@ -46,7 +46,7 @@ The result of buffering buildings and roads is the following map, where we can s
 
 ##### Buffering Buildings and Roads
 
-![Buffered Buildings and Roads](imgs/buffers.png)
+![Buffered Buildings and Roads](assets/buffers.png)
 
 ### 3. Narrow by Swamp Soils
 
@@ -54,4 +54,4 @@ Then we isolate lands located on soil series associated with swamps, as identifi
 
 ##### Map of Reclassified Land Cover on Swamp Soils
 
-![Narrow by Swamp Soils](imgs/swamp_landcover.png)
+![Narrow by Swamp Soils](assets/swamp_landcover.png)
