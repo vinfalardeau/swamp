@@ -18,7 +18,7 @@ from WBT.whitebox_tools import WhiteboxTools
 
 # import math module
 import math
-
+ 
 # declare a name for the tools
 wbt = WhiteboxTools()
 

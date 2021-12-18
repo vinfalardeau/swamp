@@ -22,7 +22,7 @@ import math
 wbt = WhiteboxTools()
 
 # set working directory, a folder with the inputs
-wbt.work_dir = "/Users/vincentfalardeau/projects/GEOG0310/wbt_pySpace-master/swampmethods2"
+wbt.work_dir = "/Users/vincentfalardeau/projects/GEOG0310/wbt_pySpace-master/SwampExportMidd"
 
 # =========================
 #   INPUTS

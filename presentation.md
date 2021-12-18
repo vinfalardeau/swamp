@@ -2,23 +2,29 @@
 
 Swamps are inland, freshwater wetlands that are predominantly forested or covered with lower-growing shrub plants.
 
-#### Problems
+##### Problems
 
-- In some places, past areas of swamp have been cleared and converted to crops or hayfields. *(1942 image vs more recent)*
+- In some places, areas that were swamp prior to European settlement may have been cleared and converted to crops or hayfields. Between 1942 and 2012, however, the Middlebury Swamp appears to have seen some regrowth.
 
-- Parts of the swamp have been degraded from healthy wet forest to a state of lower biomass and biodiversity. *(contention: is it old ag land or forest that's been flooded out?)* Possibly due to changes in hydrology introduced by ditches and berms. *(or other alterations?)*
+|1942|2012|
+|---|---|
+|![1942](imgs2/o1942.png)|![2012](imgs2/o2012.png)|
 
-> Screenshot of de Beers atlas, showing the change in hydrology
+- Parts of the swamp have less trees, and lower biomass. These could be old agricultural lands or forest areas that have been flooded out, whether naturally or due to changes in hydrology introduced by ditches, berms, or other alterations.
 
-#### Goals
+|1870 - De Beers Atlas|1943 - USGS|2021 - USGS|
+|---|---|---|
+|![1870](imgs2/i1870.png)|![1943](imgs2/i1943.png)|![2021](imgs2/i2021.png)|
+
+- In these maps, we can see that the flow direction in the Middlebury Swamp changed over time. In 1870, water flowed north to meet Otter Creek, whereas in 2021 some straight-line ditches still drain north, but most of the swamp drains south and east before meeting ditches near the railroad that drain into the creek.
+
+##### Goals
 
 - Conservation should aim to preserve existing large blocks of swamp, especially in areas with greater diversity and rarer soils, species, or natural community types.
 
 - Restoration of degraded and converted swamps should also be a priority.
 
 &ensp;
-
-> Change to atlas screenshots later
 
 ##### Present Conditions
 ![Swamp Current Conditions Map](imgs/result.png)

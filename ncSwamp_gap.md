@@ -1,6 +1,6 @@
 
 # Evaluating Swamp Status
- 
+
 Here, we set out to find what proportions of Middlebury's swamps are protected, whether under natural conditions or in agriculture. We also measure how much of the swamp falls within habitat blocks or riparian areas, in comparison to the amount in protected areas. What if we designated and zoned habitat blocks and riparian areas as places for conservation, rather than relying on the piecemeal protections we currently have?
 
 ### *Data Prep*
@@ -86,6 +86,6 @@ The state of Vermont designates some natural community areas as significant, but
 
 ![significance map](imgs2/sigmap.png)
 
-Carrying out area calculations for each land cover type, we can then see what percent of each is identified as state significant natural communities. Tree cover on swamp soils is likeliest to be deemed significant, followed by grassland and shrubland. Some developed land is considered significant, because we buffered around buildings and roads to a distance where they overlap with state significant areas.
+Carrying out area calculations for each land cover type, we can then see what percent of each is identified as state significant natural communities. Tree cover on swamp soils is likeliest to be deemed significant, followed by grassland and shrubland. Some developed land is considered significant, because we buffered around buildings and roads to a distance where they overlap with state significant areas. 
 
 ![significant](imgs2/signif_chart.png)
