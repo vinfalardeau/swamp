@@ -2,7 +2,7 @@
 # Swamp: Current Conditions
 
 Here, we isolate and map the land cover types of interest on swamp soils. We do so by reclassifying landcover to focus on natural swamps (with and without trees), agricultural land, waters, and developed land (including buffers around buildings and roads). The three principal steps are (1) reclassifying the landcover, including by burning in external data on agricultural areas; (2) making buffers around buildings and roads and assigning these areas to a developed/other landcover class; and (3) narrowing the analysis down to areas on swamp soils.
-  
+
 Here is a look at the final result this process arrives at, a map of the current conditions of swamps in a test region. As we can see, most of the landcover on swamp soils remains trees (dark green). Sizable portions have been cleared or degraded, and are now grassland or shrubland (light green), while large chunks near Otter Creek are in agricultural use (light tan), and some small areas are paved, bare, or developed (pink).
 
 ##### Swamp Current Conditions Map
@@ -10,7 +10,7 @@ Here is a look at the final result this process arrives at, a map of the current
 
 ### *Data Prep*
 See the Google Earth Engine code,
-[here](https://code.earthengine.google.com/817a1d84209bc94c67b73347357faae6), to process and download these inputs:
+[here](https://code.earthengine.google.com/580b61a6845f21f4df4ae0cf6bacac92), to process and download these inputs:
 
 |Feature|Raster Name|
 |---|---|
